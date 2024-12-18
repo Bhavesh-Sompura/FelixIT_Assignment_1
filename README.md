@@ -7,3 +7,5 @@ I created a webpage using HTML and CSS, which includes a navigation bar (Navbar)
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## Screenshots
+
+![Screenshot](https://github.com/user-attachments/assets/a8201b41-cdbb-4d69-a884-478e3f622af2)
